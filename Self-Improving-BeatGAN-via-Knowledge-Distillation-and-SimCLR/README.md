@@ -68,7 +68,7 @@ SimCLR은 Contrastive Learning 기법을 활용하여 서로 일치하는 것끼
 ## Reference
 
 [BeatGAN](https://github.com/hi-bingo/BeatGAN)   
-[FRSKD](https://github.com/MingiJi/FRSKD)
+[FRSKD](https://github.com/MingiJi/FRSKD)   
 [SimCLR](https://github.com/google-research/simclr.git)
 
 
